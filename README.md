@@ -27,7 +27,7 @@
 ### 2. 脚本安装
 
 点击以下链接直接安装脚本：
-[安装脚本]([https://github.com/hatanokokosa](https://greasyfork.org/zh-CN/scripts/521110-b%E7%AB%99%E5%8A%A8%E6%80%81%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E5%B7%A5%E5%85%B7))
+[B站动态批量删除工具](https://greasyfork.org/zh-CN/scripts/521110-b%E7%AB%99%E5%8A%A8%E6%80%81%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E5%B7%A5%E5%85%B7)
 
 ### 3. 使用步骤
 
@@ -81,9 +81,5 @@ function exportLogs() {
 }
 ```
 ## 注意事项
-
-### 安全性提示
-
-#### 脚本需要访问用户的动态数据，并使用 CSRF Token 删除动态，请勿在公共设备上使用
 
 #### 使用脚本时建议设置合理的删除间隔（如默认的 50 毫秒），避免触发 Bilibili 的频率限制机制
