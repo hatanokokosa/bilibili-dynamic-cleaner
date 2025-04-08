@@ -60,7 +60,6 @@ async spaceHistory(offset = 0) {
 #### 2. 动态删除
 通过 API 删除指定动态：
 ```javascript
-Copy code
 async removeDynamic(id) {
     return this._api(
         "https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/rm_dynamic",
@@ -71,7 +70,6 @@ async removeDynamic(id) {
 #### 3. 删除日志导出
 将删除记录保存为 JSON 文件：
 ```javascript
-Copy code
 function exportLogs() {
     const blob = new Blob([JSON.stringify(logs, null, 2)], { type: "application/json" });
     const link = document.createElement("a");
