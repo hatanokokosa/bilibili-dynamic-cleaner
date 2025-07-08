@@ -6,8 +6,7 @@
 
 - 安装浏览器扩展 [Tampermonkey](https://www.tampermonkey.net/)
 
-- 安装脚本
-[态删](https://greasyfork.org/zh-CN/scripts/521110-b%E7%AB%99%E5%8A%A8%E6%80%81%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E5%B7%A5%E5%85%B7)
+- [安装脚本](https://greasyfork.org/zh-CN/scripts/521110-b%E7%AB%99%E5%8A%A8%E6%80%81%E6%89%B9%E9%87%8F%E5%88%A0%E9%99%A4%E5%B7%A5%E5%85%B7)
 
 ---
 
